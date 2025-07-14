@@ -13,7 +13,7 @@ def get_requirements(file_path: str) -> List[str]:
     return requirements
 setup(
     name='CIFAR-10_image_recognition',
-    version='12.8.2',
+    version='3.12.7',
     author="Shubham",
     author_email='shubham23official@gmail.com',
     packages=find_packages(),
